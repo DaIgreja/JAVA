@@ -1,0 +1,20 @@
+#principal {
+			text-align: center;
+			width: 860px;
+			margin: auto;
+}
+
+#topo {
+			border: solid 2px black;
+		}
+		
+#menu {
+			width: 250px;			
+			float: left;
+	}
+	
+
+
+#rodape {
+			border: solid 2px black;
+}

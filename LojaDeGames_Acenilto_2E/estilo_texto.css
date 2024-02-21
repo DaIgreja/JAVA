@@ -1,0 +1,26 @@
+body {
+	font-family: arial;
+	background-color: lightblue;
+}
+
+h1 {
+	font-family: arial black;
+	color: blue;
+	text-align: center;
+}
+
+h2 {
+	color: blue;
+}
+
+h3 {
+    color: blue	
+}
+
+p {
+	font-family: arial;	
+}
+
+ul {
+	font-family: arial;
+}

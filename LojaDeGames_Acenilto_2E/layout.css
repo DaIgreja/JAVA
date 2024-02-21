@@ -1,0 +1,23 @@
+/* Estilos para o menu de navegação */ 
+
+#lista_menu {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	width: 150px;	
+	}
+
+#lista_menu li a {	
+	display: block;
+	text-decoration: none;
+	color: black;
+	background: brown;
+	padding: 5px;
+	border: 1px solid #ccc;	
+	}
+
+#lista_menu li a:hover {	
+	text-decoration: none;
+	color: white;
+	background: gray;
+	}
